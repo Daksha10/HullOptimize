@@ -1,7 +1,4 @@
-**HullOptimize: Efficient Shipping Container Placement by Convex Hull Computation using Graham Scan**
+HullOptimize is a C++ project that implements the Graham Scan algorithm to find the convex hull of a set of 2D points. It uses vectors and sorting algorithms to efficiently compute the convex hull, visualize container placement, and print the convex hull points. This tool is particularly useful for geometric optimization in logistics and computational geometry applications.
+Note that it only works with C++11 or later. 
 
-This C++ project implements the Graham Scan algorithm to find the convex hull of a set of 2D points. By utilizing vectors and sorting algorithms, this project efficiently computes the convex hull, visualizes container placement, and prints the convex hull points. This tool is particularly useful for geometric optimization in logistics and computational geometry applications.
-
-Only works with c++11 or more
-g++ scp.cpp -std=c++11 -o scp
-
+To compile, use the following command: g++ scp.cpp -std=c++11 -o scp

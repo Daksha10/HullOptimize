@@ -4,4 +4,4 @@ This C++ project implements the Graham Scan algorithm to find the convex hull of
 
 Only works with c++11 or more
 g++ scp.cpp -std=c++11 -o scp
-needed to use that for compiling
+
